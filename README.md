@@ -66,7 +66,7 @@ SOFTWARE.
 
 Feito com ❤️ por Igor Cotrim 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Igor Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
 [![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
 
 
@@ -138,5 +138,5 @@ SOFTWARE.
 
 Made with ❤️ by Igor Cotrim 👋🏽 Get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Igor Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
 [![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
