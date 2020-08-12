@@ -36,7 +36,6 @@ Usei uma biblioteca chamada styled-components para colocar o estilo da aplicaç�
 # 👉 Autor
 
 ### Autor
----
 
 <a href="https://www.linkedin.com/in/igorcotrim/">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
@@ -49,6 +48,7 @@ Feito com ❤️ por Igor Cotrim 👋🏽 Entre em contato!
 [![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
 [![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
 
+---
 
 <h1 align="center">React Native Tip Calculator</h1>
 
@@ -88,7 +88,6 @@ I used a library called styled-components to make the style of the application e
 # 👉 Author
 
 ### Author
----
 
 <a href="https://www.linkedin.com/in/igorcotrim/">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
