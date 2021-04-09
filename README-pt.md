@@ -24,10 +24,10 @@ Comecei a estudar React Native e a melhor forma de consolidar o conhecimento é 
 
 ### Tecnologia
 
-[Expo] (https://expo.io/) Eu usei a Expo,
+[Expo](https://expo.io/) Eu usei a Expo,
 Expo é uma ferramenta usada no desenvolvimento móvel com React Native que permite fácil acesso à API nativa do dispositivo sem ter que instalar nenhuma dependência ou alterar o código nativo;
 
-[React Native] (https://reactnative.dev/) React Native na versão 0.62.2;
+[React Native](https://reactnative.dev/) React Native na versão 0.62.2;
 
 Usei algumas funções do React como UseState e UseEffect;
 
@@ -38,21 +38,19 @@ componentes para tornar o estilo do aplicativo mais fácil;
 
 ### Licença
 
-[MIT] (https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 # 👉 Autor
 
 ### Autor
 
 <a href="https://www.linkedin.com/in/igorcotrim/">
- <img style = "border-radius: 50%;" src = "https: //avatars2.githubusercontent.
-com / u / 50390408? s = 460 & u = fa3dad860e7be785755894c2c7f4cbd20ac4b1b0 & v = 4 "largura =" 100px; "alt =" "/>
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
  <br />
- <sub> <b> Igor Cotrim </b> </sub> </a> <a href="https://www.linkedin.com/in/igorcotrim/" title="linkedin"> 😎 </ a >
+ <sub><b>Igor Cotrim</b></sub></a> <a href="https://www.linkedin.com/in/igorcotrim/" title="linkedin">😎</a>
 
 
-Feito com ❤️ por Igor Cotrim 👋🏽 Entre em contato!
+Feito com ❤️ de Igor Cotrim
 
-[! [Emblema do Linkedin] (https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-
-square & logo = Linkedin & logoColor = white & link = https: //www.linkedin.com/in/igorcotrim/)] (https://www.linkedin.com/in/igorcotrim/)
-[! [Selo do Gmail] (https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)] (mailto: igorxuxicotrim@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
+[![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
